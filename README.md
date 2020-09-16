@@ -2,4 +2,8 @@
 
 Currently working on [ExaGear](https://4pda.ru/forum/index.php?showtopic=992239) and associated projects.
 
+### 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZhymabekRoman&show_icons=true&hide_border=true)
+
+
+## Show ❤️ By Starring My Repos!
