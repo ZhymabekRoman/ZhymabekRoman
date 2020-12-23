@@ -5,7 +5,7 @@ Currently working on [ExaGear](https://4pda.ru/forum/index.php?showtopic=992239)
 
 ### My stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZhymabekRoman&show_icons=true&theme=buefy&hide_border=true)
-### My top langs
+### My most used languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhymabekRoman&layout=compact&show_icons=true&theme=buefy)
 
 ![](https://komarev.com/ghpvc/?username=ZhymabekRoman&style=flat-square&color=blueviolet)
