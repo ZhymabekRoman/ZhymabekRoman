@@ -4,9 +4,9 @@
 At the moment, I am catostrophically loaded, I need rest and unloading. So far, I'm working on all sorts of projects
 
 ### My stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZhymabekRoman&show_icons=true&theme=midnight-purple&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZhymabekRoman&show_icons=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF)
 ### My most used languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhymabekRoman&layout=compact&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhymabekRoman&layout=compact&show_icons=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF)
 
 ![](https://komarev.com/ghpvc/?username=ZhymabekRoman&style=flat-square&color=blueviolet)
 ## Show ❤️ By Starring My Repos!
