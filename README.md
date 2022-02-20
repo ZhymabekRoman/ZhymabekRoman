@@ -1,5 +1,5 @@
 ### Hi there <a target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="max-width:100%;"></a> 
-#### I'm Zhymabek Roman - classical music player, Open-Source enthusiast. I ❤️ Programming ! This is my hobby
+#### I'm Zhymabek Roman - open source enthusiast, love GNU/Linux. I ❤️ Programming !
 
 At the moment, I am catostrophically loaded, I need rest and unloading. So far, I'm working on all sorts of projects
 
