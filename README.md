@@ -17,3 +17,6 @@ I'm a pretty busy person. If you don't have serious problems and/or haven't trie
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhymabekRoman)
   
 </details>
+
+## My projects
+[Exagear-For-Termux](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=Exagear-For-Termux)](https://g)
