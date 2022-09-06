@@ -19,4 +19,5 @@ I'm a pretty busy person. If you don't have serious problems and/or haven't trie
 </details>
 
 ## My projects
-[Exagear-For-Termux](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=Exagear-For-Termux)](https://g)
+### > Linux utils
+[![Exagear-For-Termux](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=Exagear-For-Termux)](https://https://github.com/ZhymabekRoman/Exagear-For-Termux)
