@@ -20,4 +20,8 @@ I'm a pretty busy person. If you don't have serious problems and/or haven't trie
 
 ## My projects
 ### > Linux utils
-[![Exagear-For-Termux](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=Exagear-For-Termux)](https://https://github.com/ZhymabekRoman/Exagear-For-Termux)
+[![Exagear-For-Termux](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=Exagear-For-Termux)](https://github.com/ZhymabekRoman/Exagear-For-Termux)
+
+[![proot-static](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=proot-static)](https://github.com/ZhymabekRoman/proot-static)
+
+[![MyVIM](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=MyVIM)](https://github.com/ZhymabekRoman/MyVIM)
