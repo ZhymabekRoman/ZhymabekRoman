@@ -18,7 +18,7 @@ I'm a pretty busy person. If you don't have serious problems and/or haven't trie
   
 </details>
 
-## My projects
+## My works and projects
 ### > Linux utils
 [![Exagear-For-Termux](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=Exagear-For-Termux)](https://github.com/ZhymabekRoman/Exagear-For-Termux)
 
@@ -34,3 +34,7 @@ I'm a pretty busy person. If you don't have serious problems and/or haven't trie
 
 ### > Windows utils
 [![CameyoExtractor](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=CameyoExtractor)](https://github.com/ZhymabekRoman/CameyoExtractor)
+
+### > Libraries
+#### $ Python
+[![platonus_api_wrapper](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=platonus_api_wrapper)](https://github.com/ZhymabekRoman/platonus_api_wrapper)
