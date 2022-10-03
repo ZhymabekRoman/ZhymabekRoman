@@ -27,3 +27,6 @@ I'm a pretty busy person. If you don't have serious problems and/or haven't trie
 [![MyVIM](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=MyVIM)](https://github.com/ZhymabekRoman/MyVIM)
 
 [![Puffin-Browser-on-Linux](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=Puffin-Browser-on-Linux)](https://github.com/ZhymabekRoman/Puffin-Browser-on-Linux)
+
+### > Telegram bots
+[![SimMarketBot](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=SimMarketBot)](https://github.com/ZhymabekRoman/SimMarketBot)
