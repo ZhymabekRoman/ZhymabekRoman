@@ -30,3 +30,7 @@ I'm a pretty busy person. If you don't have serious problems and/or haven't trie
 
 ### > Telegram bots
 [![SimMarketBot](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=SimMarketBot)](https://github.com/ZhymabekRoman/SimMarketBot)
+
+
+### > Windows utils
+[![CameyoExtractor](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=CameyoExtractor)](https://github.com/ZhymabekRoman/CameyoExtractor)
