@@ -25,3 +25,5 @@ I'm a pretty busy person. If you don't have serious problems and/or haven't trie
 [![proot-static](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=proot-static)](https://github.com/ZhymabekRoman/proot-static)
 
 [![MyVIM](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=MyVIM)](https://github.com/ZhymabekRoman/MyVIM)
+
+[![Puffin-Browser-on-Linux](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=Puffin-Browser-on-Linux)](https://github.com/ZhymabekRoman/Puffin-Browser-on-Linux)
