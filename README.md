@@ -7,34 +7,34 @@ I'm a pretty busy person. If you don't have serious problems and/or haven't trie
 <details>
   <summary>Profile information</summary>
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZhymabekRoman)
+  ![GitHub Stats](https://github-readme-stats-zhymabekroman.vercel.app/api?username=ZhymabekRoman)
   
 </details>
 
 <details>
   <summary>Most used languages</summary>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhymabekRoman)
+  ![Top Langs](https://github-readme-stats-zhymabekroman.vercel.app/api/top-langs/?username=ZhymabekRoman)
   
 </details>
 
 ## My works and projects
 ### > Linux utils
-[![Exagear-For-Termux](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=Exagear-For-Termux)](https://github.com/ZhymabekRoman/Exagear-For-Termux)
+[![Exagear-For-Termux](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=Exagear-For-Termux)](https://github.com/ZhymabekRoman/Exagear-For-Termux)
 
-[![proot-static](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=proot-static)](https://github.com/ZhymabekRoman/proot-static)
+[![proot-static](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=proot-static)](https://github.com/ZhymabekRoman/proot-static)
 
-[![MyVIM](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=MyVIM)](https://github.com/ZhymabekRoman/MyVIM)
+[![MyVIM](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=MyVIM)](https://github.com/ZhymabekRoman/MyVIM)
 
-[![Puffin-Browser-on-Linux](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=Puffin-Browser-on-Linux)](https://github.com/ZhymabekRoman/Puffin-Browser-on-Linux)
+[![Puffin-Browser-on-Linux](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=Puffin-Browser-on-Linux)](https://github.com/ZhymabekRoman/Puffin-Browser-on-Linux)
 
 ### > Telegram bots
-[![SimMarketBot](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=SimMarketBot)](https://github.com/ZhymabekRoman/SimMarketBot)
+[![SimMarketBot](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=SimMarketBot)](https://github.com/ZhymabekRoman/SimMarketBot)
 
 
 ### > Windows utils
-[![CameyoExtractor](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=CameyoExtractor)](https://github.com/ZhymabekRoman/CameyoExtractor)
+[![CameyoExtractor](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=CameyoExtractor)](https://github.com/ZhymabekRoman/CameyoExtractor)
 
 ### > Libraries
 #### $ Python
-[![platonus_api_wrapper](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=platonus_api_wrapper)](https://github.com/ZhymabekRoman/platonus_api_wrapper)
+[![platonus_api_wrapper](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=platonus_api_wrapper)](https://github.com/ZhymabekRoman/platonus_api_wrapper)
