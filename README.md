@@ -28,12 +28,16 @@ I'm a pretty busy person. If you don't have serious problems and/or haven't trie
 
 [![Puffin-Browser-on-Linux](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=Puffin-Browser-on-Linux)](https://github.com/ZhymabekRoman/Puffin-Browser-on-Linux)
 
+[![transcrypt-for-noexec-fs](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=transcrypt-for-noexec-fs)](https://github.com/ZhymabekRoman/transcrypt-for-noexec-fs)
+
+
 ### > Telegram bots
 [![SimMarketBot](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=SimMarketBot)](https://github.com/ZhymabekRoman/SimMarketBot)
 
 
 ### > Windows utils
 [![CameyoExtractor](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=CameyoExtractor)](https://github.com/ZhymabekRoman/CameyoExtractor)
+
 
 ### > Libraries
 #### $ Python
