@@ -2,22 +2,28 @@
 
 ![Total profile views](https://komarev.com/ghpvc/?username=ZhymabekRoman&style=for-the-badge)
 
+
+## 💼 Skills
+![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=Go&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-SQlite-informational?style=flat&logo=SQlite&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=GNU-Bash&logoColor=white&color=4AB197)
+
 I'm a pretty busy person. If you don't have serious problems and/or haven't tried to solve them on your own, don't write to me. If you really need my help, get me to drop all my other cases. If you think I owe you something - you are mistaken. If you ignore the above - don't be surprised if I ignore you
 
-<details>
-  <summary>Profile information</summary>
+![GitHub Stats](https://github-readme-stats-zhymabekroman.vercel.app/api?username=ZhymabekRoman)
   
-  ![GitHub Stats](https://github-readme-stats-zhymabekroman.vercel.app/api?username=ZhymabekRoman)
-  
-</details>
-
-<details>
-  <summary>Most used languages</summary>
-  
-  ![Top Langs](https://github-readme-stats-zhymabekroman.vercel.app/api/top-langs/?username=ZhymabekRoman)
-  
-</details>
-
 ## My works and projects
 ### > Linux utils
 [![Exagear-For-Termux](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=Exagear-For-Termux)](https://github.com/ZhymabekRoman/Exagear-For-Termux)
