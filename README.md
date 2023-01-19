@@ -27,13 +27,9 @@ I'm a pretty busy person. If you don't have serious problems and/or haven't trie
 ## My works and projects
 ### > Linux utils
 [![Exagear-For-Termux](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=Exagear-For-Termux)](https://github.com/ZhymabekRoman/Exagear-For-Termux)
-
 [![proot-static](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=proot-static)](https://github.com/ZhymabekRoman/proot-static)
-
 [![MyVIM](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=MyVIM)](https://github.com/ZhymabekRoman/MyVIM)
-
 [![Puffin-Browser-on-Linux](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=Puffin-Browser-on-Linux)](https://github.com/ZhymabekRoman/Puffin-Browser-on-Linux)
-
 [![transcrypt-for-noexec-fs](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=transcrypt-for-noexec-fs)](https://github.com/ZhymabekRoman/transcrypt-for-noexec-fs)
 
 
@@ -48,3 +44,4 @@ I'm a pretty busy person. If you don't have serious problems and/or haven't trie
 ### > Libraries
 #### $ Python
 [![platonus_api_wrapper](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=platonus_api_wrapper)](https://github.com/ZhymabekRoman/platonus_api_wrapper)
+[![kz-iin-validator](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=kz-iin-validator)](https://github.com/ZhymabekRoman/kz-iin-validator)
