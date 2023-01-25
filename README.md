@@ -24,7 +24,7 @@ I'm a pretty busy person. If you don't have serious problems and/or haven't trie
 
 ![GitHub Stats](https://github-readme-stats-zhymabekroman.vercel.app/api?username=ZhymabekRoman)
   
-## My works and projects
+## My works and contributions
 ### > Linux utils
 [![Exagear-For-Termux](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=Exagear-For-Termux)](https://github.com/ZhymabekRoman/Exagear-For-Termux)
 [![proot-static](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=proot-static)](https://github.com/ZhymabekRoman/proot-static)
@@ -45,3 +45,4 @@ I'm a pretty busy person. If you don't have serious problems and/or haven't trie
 #### $ Python
 [![platonus_api_wrapper](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=platonus_api_wrapper)](https://github.com/ZhymabekRoman/platonus_api_wrapper)
 [![kz-iin-validator](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=kz-iin-validator)](https://github.com/ZhymabekRoman/kz-iin-validator)
+[![translate](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=Animenosekai&repo=translate)](https://github.com/Animenosekai/translate)
