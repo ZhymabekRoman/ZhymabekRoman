@@ -46,3 +46,6 @@ I'm a pretty busy person. If you don't have serious problems and/or haven't trie
 [![platonus_api_wrapper](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=platonus_api_wrapper)](https://github.com/ZhymabekRoman/platonus_api_wrapper)
 [![kz-iin-validator](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=kz-iin-validator)](https://github.com/ZhymabekRoman/kz-iin-validator)
 [![translate](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=Animenosekai&repo=translate)](https://github.com/Animenosekai/translate)
+
+### > Other
+[![browsec-premium-chrome-extension](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=browsec-premium-chrome-extension)](https://github.com/ZhymabekRoman/browsec-premium-chrome-extension)
