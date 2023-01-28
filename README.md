@@ -31,7 +31,7 @@ I'm a pretty busy person. If you don't have serious problems and/or haven't trie
 [![MyVIM](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=MyVIM)](https://github.com/ZhymabekRoman/MyVIM)
 [![Puffin-Browser-on-Linux](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=Puffin-Browser-on-Linux)](https://github.com/ZhymabekRoman/Puffin-Browser-on-Linux)
 [![transcrypt-for-noexec-fs](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=transcrypt-for-noexec-fs)](https://github.com/ZhymabekRoman/transcrypt-for-noexec-fs)
-
+[![libwinefix](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=libwinefix)](https://github.com/ZhymabekRoman/libwinefix)
 
 ### > Telegram bots
 [![SimMarketBot](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=SimMarketBot)](https://github.com/ZhymabekRoman/SimMarketBot)
