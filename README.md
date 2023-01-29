@@ -1,6 +1,6 @@
 # Bonjour! I'm Zhymabek Roman (aka Roman9402) - Open Source enthusiast and altruist, ❤️ GNU/Linux. 
 
-![Total profile views](https://komarev.com/ghpvc/?username=ZhymabekRoman&style=for-the-badge)
+![Total profile views](https://komarev.com/ghpvc/?username=ZhymabekRoman)
 
 
 ## 💼 Skills
