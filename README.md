@@ -1,7 +1,7 @@
 # Bonjour! I'm Zhymabek Roman (aka Roman9402) - Open Source enthusiast and altruist, ❤️ GNU/Linux. 
 
+[![Website](https://img.shields.io/badge/Website-open-green)](https://zhymabekroman.github.io/blog/posts)
 ![Total profile views](https://komarev.com/ghpvc/?username=ZhymabekRoman)
-
 
 ## 💼 Skills
 ![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
@@ -20,8 +20,11 @@
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=GNU-Bash&logoColor=white&color=4AB197)
 
+## 🙍‍♂️ About me
 I'm a pretty busy person. If you don't have serious problems and/or haven't tried to solve them on your own, don't write to me. If you really need my help, get me to drop all my other cases. If you think I owe you something - you are mistaken. If you ignore the above - don't be surprised if I ignore you
 
+## 👤 Profile
+### Website - https://zhymabekroman.github.io/blog/posts
 ![GitHub Stats](https://github-readme-stats-zhymabekroman.vercel.app/api?username=ZhymabekRoman)
   
 ##  ✨🔨 My works and contributions
