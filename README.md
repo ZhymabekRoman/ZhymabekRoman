@@ -56,6 +56,7 @@ I'm a pretty busy person. If you don't have serious problems and/or haven't trie
         <img src="https://img.shields.io/badge/Buildah-fc0?style=for-the-badge&logo=buildah&logoColor=white">
       </td>
       <td>
+        <img src="https://img.shields.io/badge/Manjaro-34be5b?style=for-the-badge&logo=manjaro&logoColor=white">
         <img src="https://img.shields.io/badge/Debian-d70a53?style=for-the-badge&logo=debian&logoColor=white">
         <img src="https://img.shields.io/badge/Ubuntu-dd4814?style=for-the-badge&logo=ubuntu&logoColor=white">
       </td>
