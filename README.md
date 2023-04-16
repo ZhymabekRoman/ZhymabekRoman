@@ -74,6 +74,7 @@ I'm a pretty busy person. If you don't have serious problems and/or haven't trie
 [![proot-static](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=proot-static)](https://github.com/ZhymabekRoman/proot-static)
 [![MyVIM](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=MyVIM)](https://github.com/ZhymabekRoman/MyVIM)
 [![Puffin-Browser-on-Linux](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=Puffin-Browser-on-Linux)](https://github.com/ZhymabekRoman/Puffin-Browser-on-Linux)
+[![SwiftShader for Exagear](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=direct-3d-swiftshader-exagear)](https://github.com/ZhymabekRoman/direct-3d-swiftshader-exagear)
 [![transcrypt-for-noexec-fs](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=transcrypt-for-noexec-fs)](https://github.com/ZhymabekRoman/transcrypt-for-noexec-fs)
 [![libwinefix](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=libwinefix)](https://github.com/ZhymabekRoman/libwinefix)
 [![AudioFingerprinting.Demo](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=AudioFingerprinting.Demo)](https://github.com/ZhymabekRoman/AudioFingerprinting.Demo)
