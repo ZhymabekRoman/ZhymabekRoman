@@ -96,3 +96,4 @@ I'm a pretty busy person. If you don't have serious problems and/or haven't trie
 
 ### > Other
 [![browsec-premium-chrome-extension](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=browsec-premium-chrome-extension)](https://github.com/ZhymabekRoman/browsec-premium-chrome-extension)
+[![classic-ntp-enhanced](https://github-readme-stats-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=classic-ntp-enhanced)](https://github.com/ZhymabekRoman/classic-ntp-enhanced)
