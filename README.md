@@ -1,6 +1,6 @@
 # Bonjour! I'm Zhymabek Roman (aka Roman9402) - Open Source enthusiast and altruist, ❤️ GNU/Linux. 
 
-[![Open Website](https://img.shields.io/badge/Open-Website-563D7C?style=for-the-badge&logo=web&logoColor=white)](https://zhymabekroman.github.io/blog/posts)
+[![Open Website](https://img.shields.io/badge/Open-Website-563D7C?style=for-the-badge&logo=web&logoColor=white)](https://zhymabekroman.github.io/)
 ![Total profile views](https://komarev.com/ghpvc/?username=ZhymabekRoman&style=for-the-badge)
 
 ## 🙍‍♂️ About me
