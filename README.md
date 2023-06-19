@@ -8,6 +8,7 @@ I'm a pretty busy person. If you don't have serious problems and/or haven't trie
 
 ## 👤 Profile
 ![GitHub Stats](https://github-readme-stats-zhymabekroman.vercel.app/api?username=ZhymabekRoman)
+![GitHub Streak](https://streak-stats.demolab.com?user=ZhymabekRoman)
 
 ## 💻 What can I do?
 
