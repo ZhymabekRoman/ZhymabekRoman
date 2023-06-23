@@ -1,13 +1,13 @@
 # Bonjour! I'm Zhymabek Roman (aka Roman9402) - Open Source enthusiast and altruist, ❤️ GNU/Linux. 
 
-[![Open Website](https://img.shields.io/badge/Open-Website-563D7C?style=for-the-badge&logo=web&logoColor=white)](https://zhymabekroman.github.io/)
+[![Open blog](https://img.shields.io/badge/Open-blog-563D7C?style=for-the-badge&logo=web&logoColor=white)](https://zhymabekroman.github.io/)
 ![Total profile views](https://komarev.com/ghpvc/?username=ZhymabekRoman&style=for-the-badge)
 
 ## 🙍‍♂️ About me
 I'm a pretty busy person. If you don't have serious problems and/or haven't tried to solve them on your own, don't write to me. If you really need my help, get me to drop all my other cases. If you think I owe you something - you are mistaken. If you ignore the above - don't be surprised if I ignore you
 
 ## 👤 Profile
-![GitHub Stats](https://github-readme-stats-zhymabekroman.vercel.app/api?username=ZhymabekRoman)
+![GitHub Stats](https://github-readme-stats-zhymabekroman.vercel.app/api?username=ZhymabekRoman\&rank_icon=percentile)
 ![GitHub Streak](https://streak-stats.demolab.com?user=ZhymabekRoman)
 
 ## 💻 What can I do?
