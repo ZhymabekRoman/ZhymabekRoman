@@ -103,5 +103,6 @@ I'm a pretty busy person. If you don't have serious problems and/or haven't trie
 [![translate](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=Animenosekai&repo=translate)](https://github.com/Animenosekai/translate)
 
 ### > Other
+[![github-backup-to-yandex](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=github-backup-to-yandex)](https://github.com/ZhymabekRoman/github-backup-to-yandex)
 [![browsec-premium-chrome-extension](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=browsec-premium-chrome-extension)](https://github.com/ZhymabekRoman/browsec-premium-chrome-extension)
 [![classic-ntp-enhanced](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=classic-ntp-enhanced)](https://github.com/ZhymabekRoman/classic-ntp-enhanced)
