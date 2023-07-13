@@ -1,9 +1,11 @@
-# Bonjour! I'm Zhymabek Roman (aka Roman9402) - Open Source enthusiast and altruist, ❤️ GNU/Linux. 
+# Bonjour! I'm Zhymabek Roman - Open Source enthusiast and altruist, ❤️ GNU/Linux. 
 
 [![Open blog](https://img.shields.io/badge/Open-blog-563D7C?style=for-the-badge&logo=web&logoColor=white)](https://zhymabekroman.github.io/)
 ![Total profile views](https://komarev.com/ghpvc/?username=ZhymabekRoman&style=for-the-badge)
 
 ## 🙍‍♂️ About me
+It's not really my real name, it's my pseudonym. So don't be amazed :)
+
 I'm a pretty busy person. If you don't have serious problems and/or haven't tried to solve them on your own, don't write to me. If you really need my help, get me to drop all my other cases. If you think I owe you something - you are mistaken. If you ignore the above - don't be surprised if I ignore you
 
 ## 👤 Profile
