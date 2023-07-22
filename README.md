@@ -108,3 +108,4 @@ I'm a pretty busy person. If you don't have serious problems and/or haven't trie
 [![github-backup-to-yandex](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=github-backup-to-yandex)](https://github.com/ZhymabekRoman/github-backup-to-yandex)
 [![browsec-premium-chrome-extension](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=browsec-premium-chrome-extension)](https://github.com/ZhymabekRoman/browsec-premium-chrome-extension)
 [![classic-ntp-enhanced](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=classic-ntp-enhanced)](https://github.com/ZhymabekRoman/classic-ntp-enhanced)
+[![webshare-regiter](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=webshare-regiter)](https://github.com/ZhymabekRoman/webshare-regiter)
