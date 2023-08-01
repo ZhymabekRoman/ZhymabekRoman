@@ -83,6 +83,7 @@ I'm a pretty busy person. If you don't have serious problems and/or haven't trie
 ### > Linux utils
 [![Exagear-For-Termux](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=Exagear-For-Termux)](https://github.com/ZhymabekRoman/Exagear-For-Termux)
 [![proot-static](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=proot-static)](https://github.com/ZhymabekRoman/proot-static)
+[![dotconfig](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=dotconfig)](https://github.com/ZhymabekRoman/dotconfig)
 [![MyVIM](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=MyVIM)](https://github.com/ZhymabekRoman/MyVIM)
 [![Puffin-Browser-on-Linux](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=Puffin-Browser-on-Linux)](https://github.com/ZhymabekRoman/Puffin-Browser-on-Linux)
 [![SwiftShader for Exagear](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=direct-3d-swiftshader-exagear)](https://github.com/ZhymabekRoman/direct-3d-swiftshader-exagear)
