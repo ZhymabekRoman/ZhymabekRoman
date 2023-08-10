@@ -97,6 +97,8 @@ I'm a pretty busy person. If you don't have serious problems and/or haven't trie
 
 ### > Windows utils
 [![CameyoExtractor](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=CameyoExtractor)](https://github.com/ZhymabekRoman/CameyoExtractor)
+[![Au3Cx](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=Au3Cx)](https://github.com/ZhymabekRoman/Au3Cx)
+[![ZhymaCrypt](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=ZhymaCrypt)](https://github.com/ZhymabekRoman/ZhymaCrypt)
 
 
 ### > Libraries
