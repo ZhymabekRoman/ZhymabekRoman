@@ -33,6 +33,7 @@ I'm a pretty busy person. If you don't have serious problems and/or haven't trie
       <td>
         <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">      
         <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white">
+        <img src="https://img.shields.io/badge/aiogram-009cfb?style=for-the-badge&logo=aiogram&logoColor=white">
         <img src="https://img.shields.io/badge/rust-FF5722?style=for-the-badge&logo=Rust&logoColor=white">
       </td>
       <td>
@@ -80,6 +81,9 @@ I'm a pretty busy person. If you don't have serious problems and/or haven't trie
 </table>
 
 ##  ✨🔨 My works and contributions
+### > WEB
+[![Freedium](https://avatars.githubusercontent.com/u/142643505?s=200&v=4)](http://freedium.cfd/)
+
 ### > Linux utils
 [![Exagear-For-Termux](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=Exagear-For-Termux)](https://github.com/ZhymabekRoman/Exagear-For-Termux)
 [![proot-static](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=proot-static)](https://github.com/ZhymabekRoman/proot-static)
