@@ -61,6 +61,7 @@ I'm a pretty busy person. If you don't have serious problems and/or haven't trie
         <img src="https://img.shields.io/badge/Buildah-fc0?style=for-the-badge&logo=buildah&logoColor=white">
       </td>
       <td>
+        <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch&logoColor=white">
         <img src="https://img.shields.io/badge/Manjaro-34be5b?style=for-the-badge&logo=manjaro&logoColor=white">
         <img src="https://img.shields.io/badge/Debian-d70a53?style=for-the-badge&logo=debian&logoColor=white">
         <img src="https://img.shields.io/badge/Ubuntu-dd4814?style=for-the-badge&logo=ubuntu&logoColor=white">
@@ -105,11 +106,14 @@ I'm a pretty busy person. If you don't have serious problems and/or haven't trie
 [![ZhymaCrypt](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=ZhymaCrypt)](https://github.com/ZhymabekRoman/ZhymaCrypt)
 
 
-### > Libraries
+### > Libraries and toolkits
 #### $ Python
 [![platonus_api_wrapper](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=platonus_api_wrapper)](https://github.com/ZhymabekRoman/platonus_api_wrapper)
 [![kz-iin-validator](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=kz-iin-validator&text_width=52)](https://github.com/ZhymabekRoman/kz-iin-validator)
 [![translate](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=Animenosekai&repo=translate)](https://github.com/Animenosekai/translate)
+
+#### $ Golang
+[![PageTitleify](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=PageTitleify&text_width=52)](https://github.com/ZhymabekRoman/PageTitleify)
 
 ### > Other
 [![github-backup-to-yandex](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=github-backup-to-yandex)](https://github.com/ZhymabekRoman/github-backup-to-yandex)
