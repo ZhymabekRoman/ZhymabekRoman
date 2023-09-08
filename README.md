@@ -116,6 +116,7 @@ I'm a pretty busy person. If you don't have serious problems and/or haven't trie
 [![PageTitleify](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=PageTitleify&text_width=52)](https://github.com/ZhymabekRoman/PageTitleify)
 
 ### > Other
+[![Ruplay-Market-Downloader-py](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=Ruplay-Market-Downloader-py)](https://github.com/ZhymabekRoman/Ruplay-Market-Downloader-py)
 [![github-backup-to-yandex](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=github-backup-to-yandex)](https://github.com/ZhymabekRoman/github-backup-to-yandex)
 [![browsec-premium-chrome-extension](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=browsec-premium-chrome-extension)](https://github.com/ZhymabekRoman/browsec-premium-chrome-extension)
 [![classic-ntp-enhanced](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=classic-ntp-enhanced)](https://github.com/ZhymabekRoman/classic-ntp-enhanced)
