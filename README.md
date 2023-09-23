@@ -6,7 +6,7 @@
 ## 🙍‍♂️ About me
 It's not really my real name, it's my pseudonym. So don't be amazed :)
 
-I'm a pretty busy person. If you don't have serious problems and/or haven't tried to solve them on your own, don't write to me. If you really need my help, get me to drop all my other cases. If you think I owe you something - you are mistaken. If you ignore the above - don't be surprised if I ignore you
+I love to play music and create music, and to reverse engineer some stuff, I totally love that! Also I use Arch btw. 
 
 ## 👤 Profile
 ![GitHub Stats](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api?username=ZhymabekRoman&rank_icon=percentile)
@@ -104,20 +104,22 @@ I'm a pretty busy person. If you don't have serious problems and/or haven't trie
 [![CameyoExtractor](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=CameyoExtractor)](https://github.com/ZhymabekRoman/CameyoExtractor)
 [![Au3Cx](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=Au3Cx)](https://github.com/ZhymabekRoman/Au3Cx)
 [![ZhymaCrypt](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=ZhymaCrypt)](https://github.com/ZhymabekRoman/ZhymaCrypt)
-
+[![musescore_pdf_downloader](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=musescore_pdf_downloader)](https://github.com/ZhymabekRoman/musescore_pdf_downloader)
 
 ### > Libraries and toolkits
 #### $ Python
 [![platonus_api_wrapper](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=platonus_api_wrapper)](https://github.com/ZhymabekRoman/platonus_api_wrapper)
 [![kz-iin-validator](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=kz-iin-validator&text_width=52)](https://github.com/ZhymabekRoman/kz-iin-validator)
-[![translate](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=Animenosekai&repo=translate)](https://github.com/Animenosekai/translate)
 
-#### $ Golang
+#### $ Go
 [![PageTitleify](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=PageTitleify&text_width=52)](https://github.com/ZhymabekRoman/PageTitleify)
 
-### > Other
+### \# Reverse-engineered or cracked stuff ☠️
 [![Ruplay-Market-Downloader-py](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=Ruplay-Market-Downloader-py)](https://github.com/ZhymabekRoman/Ruplay-Market-Downloader-py)
-[![github-backup-to-yandex](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=github-backup-to-yandex)](https://github.com/ZhymabekRoman/github-backup-to-yandex)
 [![browsec-premium-chrome-extension](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=browsec-premium-chrome-extension)](https://github.com/ZhymabekRoman/browsec-premium-chrome-extension)
-[![classic-ntp-enhanced](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=classic-ntp-enhanced)](https://github.com/ZhymabekRoman/classic-ntp-enhanced)
 [![webshare-regiter](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=webshare-regiter)](https://github.com/ZhymabekRoman/webshare-regiter)
+
+### > Other
+[![translate](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=Animenosekai&repo=translate)](https://github.com/Animenosekai/translate)
+[![github-backup-to-yandex](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=github-backup-to-yandex)](https://github.com/ZhymabekRoman/github-backup-to-yandex)
+[![classic-ntp-enhanced](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=classic-ntp-enhanced)](https://github.com/ZhymabekRoman/classic-ntp-enhanced)
