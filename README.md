@@ -110,6 +110,7 @@ I love to play music and create music, and to reverse engineer some stuff, I tot
 #### $ Python
 [![platonus_api_wrapper](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=platonus_api_wrapper)](https://github.com/ZhymabekRoman/platonus_api_wrapper)
 [![kz-iin-validator](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=kz-iin-validator&text_width=52)](https://github.com/ZhymabekRoman/kz-iin-validator)
+[![audfprint-enhanhed](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=audfprint-enhanhed)](https://github.com/ZhymabekRoman/audfprint-enhanhed)
 
 #### $ Go
 [![PageTitleify](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=PageTitleify&text_width=52)](https://github.com/ZhymabekRoman/PageTitleify)
