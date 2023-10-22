@@ -92,6 +92,8 @@ I love to play music and create music, and to reverse engineer some stuff, I tot
 [![MyVIM](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=MyVIM)](https://github.com/ZhymabekRoman/MyVIM)
 [![Puffin-Browser-on-Linux](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=Puffin-Browser-on-Linux)](https://github.com/ZhymabekRoman/Puffin-Browser-on-Linux)
 [![SwiftShader for Exagear](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=direct-3d-swiftshader-exagear)](https://github.com/ZhymabekRoman/direct-3d-swiftshader-exagear)
+[![bing-bot-reward-puppeteer](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=bing-bot-reward-puppeteer)](https://github.com/ZhymabekRoman/bing-bot-reward-puppeteer)
+[![puffin-internet-terminal-arch](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=puffin-internet-terminal-arch)](https://github.com/ZhymabekRoman/puffin-internet-terminal-arch)
 [![transcrypt-for-noexec-fs](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=transcrypt-for-noexec-fs)](https://github.com/ZhymabekRoman/transcrypt-for-noexec-fs)
 [![libwinefix](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=libwinefix)](https://github.com/ZhymabekRoman/libwinefix)
 [![AudioFingerprinting.Demo](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=AudioFingerprinting.Demo)](https://github.com/ZhymabekRoman/AudioFingerprinting.Demo)
