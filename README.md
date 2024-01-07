@@ -95,7 +95,6 @@ I love to play music and create music, and to reverse engineer some stuff, I tot
 [![bing-bot-reward-puppeteer](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=bing-bot-reward-puppeteer)](https://github.com/ZhymabekRoman/bing-bot-reward-puppeteer)
 [![puffin-internet-terminal-arch](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=puffin-internet-terminal-arch)](https://github.com/ZhymabekRoman/puffin-internet-terminal-arch)
 [![transcrypt-for-noexec-fs](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=transcrypt-for-noexec-fs)](https://github.com/ZhymabekRoman/transcrypt-for-noexec-fs)
-[![libwinefix](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=libwinefix)](https://github.com/ZhymabekRoman/libwinefix)
 [![AudioFingerprinting.Demo](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=AudioFingerprinting.Demo)](https://github.com/ZhymabekRoman/AudioFingerprinting.Demo)
 
 ### > Telegram bots
@@ -119,11 +118,15 @@ I love to play music and create music, and to reverse engineer some stuff, I tot
 
 ### \# Reverse-engineered or cracked stuff ☠️
 [![Ruplay-Market-Downloader-py](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=Ruplay-Market-Downloader-py)](https://github.com/ZhymabekRoman/Ruplay-Market-Downloader-py)
-[![browsec-premium-chrome-extension](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=browsec-premium-chrome-extension)](https://github.com/ZhymabekRoman/browsec-premium-chrome-extension)
 [![webshare-regiter](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=webshare-regiter)](https://github.com/ZhymabekRoman/webshare-regiter)
+
+### Browser
+[![TabSuspender](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=TabSuspender)](https://github.com/ZhymabekRoman/TabSuspender)
+[![browsec-premium-chrome-extension](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=browsec-premium-chrome-extension)](https://github.com/ZhymabekRoman/browsec-premium-chrome-extension)
+[![classic-ntp-enhanced](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=classic-ntp-enhanced)](https://github.com/ZhymabekRoman/classic-ntp-enhanced)
 
 ### > Other
 [![translate](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=Animenosekai&repo=translate)](https://github.com/Animenosekai/translate)
 [![github-backup-to-yandex](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=github-backup-to-yandex)](https://github.com/ZhymabekRoman/github-backup-to-yandex)
-[![classic-ntp-enhanced](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=classic-ntp-enhanced)](https://github.com/ZhymabekRoman/classic-ntp-enhanced)
+
 [![Android-Keyboard-Helper](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=Android-Keyboard-Helper)](https://github.com/ZhymabekRoman/Android-Keyboard-Helper)
