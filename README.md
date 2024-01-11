@@ -1,5 +1,7 @@
 # Bonjour! I'm Zhymabek Roman - Open Source enthusiast and altruist, ❤️ GNU/Linux. 
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/zhymabekroman)
+
 [![Open blog](https://img.shields.io/badge/Open-blog-563D7C?style=for-the-badge&logo=web&logoColor=white)](https://zhymabekroman.github.io/)
 ![Total profile views](https://komarev.com/ghpvc/?username=ZhymabekRoman&style=for-the-badge)
 
