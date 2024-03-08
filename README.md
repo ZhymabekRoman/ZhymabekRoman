@@ -136,5 +136,5 @@ Work with both backend and frontend. I write in Python, JS. Use toolkits like Do
 ### > Other
 [![translate](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=Animenosekai&repo=translate)](https://github.com/Animenosekai/translate)
 [![github-backup-to-yandex](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=github-backup-to-yandex)](https://github.com/ZhymabekRoman/github-backup-to-yandex)
-
+[![DNS-KZ-Shop-Parser](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=DNS-KZ-Shop-Parser)](https://github.com/ZhymabekRoman/DNS-KZ-Shop-Parser)
 [![Android-Keyboard-Helper](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=Android-Keyboard-Helper)](https://github.com/ZhymabekRoman/Android-Keyboard-Helper)
