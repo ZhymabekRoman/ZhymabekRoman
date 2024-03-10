@@ -107,7 +107,7 @@ Work with both backend and frontend. I write in Python, JS. Use toolkits like Do
 
 ### > Telegram bots
 [![SimMarketBot](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=SimMarketBot&text_width=54)](https://github.com/ZhymabekRoman/SimMarketBot)
-
+[![StravinskyBot](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=StravinskyBot&text_width=54)](https://github.com/ZhymabekRoman/StravinskyBot)
 
 ### > Windows utils
 [![CameyoExtractor](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=CameyoExtractor)](https://github.com/ZhymabekRoman/CameyoExtractor)
