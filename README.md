@@ -121,9 +121,6 @@ Work with both backend and frontend. I write in Python, JS. Use toolkits like Do
 [![kz-iin-validator](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=kz-iin-validator&text_width=52)](https://github.com/ZhymabekRoman/kz-iin-validator)
 [![audfprint-enhanhed](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=audfprint-enhanhed)](https://github.com/ZhymabekRoman/audfprint-enhanhed)
 
-#### $ Go
-[![PageTitleify](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=PageTitleify&text_width=52)](https://github.com/ZhymabekRoman/PageTitleify)
-
 ### \# Reverse-engineered or cracked stuff ☠️
 [![Ruplay-Market-Downloader-py](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=Ruplay-Market-Downloader-py)](https://github.com/ZhymabekRoman/Ruplay-Market-Downloader-py)
 [![webshare-regiter](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api/pin/?username=ZhymabekRoman&repo=webshare-regiter)](https://github.com/ZhymabekRoman/webshare-regiter)
