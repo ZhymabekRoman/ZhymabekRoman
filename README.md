@@ -1,6 +1,10 @@
-# Bonjour! I'm Zhymabek Roman - Open Source enthusiast and altruist, ❤️ GNU/Linux. 
+# Bonjour! I'm Zhymabek Roman - Open Source enthusiast and altruist, ❤️ GNU/Linux.
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/zhymabekroman)
+
+<a href="https://www.patreon.com/example_name">
+    <img width="200px" height="50px" alt="Become a Patron" src="https://github.com/elsiehupp/patron-buttons/blob/master/svg/become_a_patron_4x1_black_logo_white_text_on_coral.svg?raw=True">
+</a>
+
 
 [![Open blog](https://img.shields.io/badge/Open-blog-563D7C?style=for-the-badge&logo=web&logoColor=white)](https://zhymabekroman.github.io/)
 ![Total profile views](https://komarev.com/ghpvc/?username=ZhymabekRoman&style=for-the-badge)
