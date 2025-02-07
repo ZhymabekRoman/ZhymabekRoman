@@ -10,9 +10,9 @@
 ![Total profile views](https://komarev.com/ghpvc/?username=ZhymabekRoman&style=for-the-badge)
 
 ## 🙍‍♂️ About me
-It's not really my real name, it's my pseudonym. So don't be amazed :) I love to play music and create music, and to reverse engineer some stuff. GNU/Linux user. I currently use Arch Linux btw.  I have experience working on Debian, Ubuntu, Fedora, Manjaro (shit...). I can easily set up any server (VPS/VDS). 
+It's not really my real name, it's my pseudonym. So don't be amazed :) I love to play music and create music, and to reverse engineer some stuff. GNU/Linux user. I currently use Arch Linux btw. I have experience working on Debian, Ubuntu, Fedora, Manjaro.
 
-Work with both backend and frontend. I write in Python, JS. Use toolkits like Docker, NGINX, Redis (Dragonfly), Nuitka, 
+Work with both backend and frontend. I write in Python, JS. Use toolkits like Docker, NGINX, Redis (Dragonfly), Caddy. 
 
 **Python**: aiogram (v2, v3), PyTelegramBotAPI, asyncio, aiohttp, fastapi, flask, redis, SQLAlchemy, GINO, Tortoise ORM, Selenium, Jinja.
 
