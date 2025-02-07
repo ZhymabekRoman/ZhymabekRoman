@@ -16,9 +16,9 @@ Work with both backend and frontend. I write in Python, JS. Use toolkits like Do
 
 **Python**: aiogram (v2, v3), PyTelegramBotAPI, asyncio, aiohttp, fastapi, flask, redis, SQLAlchemy, GINO, Tortoise ORM, Selenium, Jinja.
 
-**JS backend**: Express JS, Fastify, Baileys.
+**JS backend**: Fastify, Prisma ORM.
 
-**JS frontend**: React, Vue JS (v2, v3), Shadcn UI, Tailwinds CSS, Bootstrap, 
+**JS frontend**: Vue JS, React, Shadcn UI, Tailwinds CSS, CSS, HTML, Vite
 
 ## 👤 Profile
 ![GitHub Stats](https://github-readme-stats-git-dev2-zhymabekroman.vercel.app/api?username=ZhymabekRoman&rank_icon=percentile)
