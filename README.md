@@ -130,7 +130,6 @@ Work with both backend and frontend. I write in Python, JS. Use toolkits like Do
 
 ### Browser
 [![TabSuspender](https://github-readme-stats-tawny-two-47.vercel.app/api/pin/?username=ZhymabekRoman&repo=TabSuspender)](https://github.com/ZhymabekRoman/TabSuspender)
-[![browsec-premium-chrome-extension](https://github-readme-stats-tawny-two-47.vercel.app/api/pin/?username=ZhymabekRoman&repo=browsec-premium-chrome-extension)](https://github.com/ZhymabekRoman/browsec-premium-chrome-extension)
 [![classic-ntp-enhanced](https://github-readme-stats-tawny-two-47.vercel.app/api/pin/?username=ZhymabekRoman&repo=classic-ntp-enhanced)](https://github.com/ZhymabekRoman/classic-ntp-enhanced)
 
 ### > Other
