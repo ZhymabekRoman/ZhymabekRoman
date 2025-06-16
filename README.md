@@ -106,7 +106,6 @@ Work with both backend and frontend. I write in Python, JS. Use toolkits like Do
 [![SwiftShader for Exagear](https://github-readme-stats-tawny-two-47.vercel.app/api/pin/?username=ZhymabekRoman&repo=direct-3d-swiftshader-exagear)](https://github.com/ZhymabekRoman/direct-3d-swiftshader-exagear)
 [![bing-bot-reward-puppeteer](https://github-readme-stats-tawny-two-47.vercel.app/api/pin/?username=ZhymabekRoman&repo=bing-bot-reward-puppeteer)](https://github.com/ZhymabekRoman/bing-bot-reward-puppeteer)
 [![puffin-internet-terminal-arch](https://github-readme-stats-tawny-two-47.vercel.app/api/pin/?username=ZhymabekRoman&repo=puffin-internet-terminal-arch)](https://github.com/ZhymabekRoman/puffin-internet-terminal-arch)
-[![transcrypt-for-noexec-fs](https://github-readme-stats-tawny-two-47.vercel.app/api/pin/?username=ZhymabekRoman&repo=transcrypt-for-noexec-fs)](https://github.com/ZhymabekRoman/transcrypt-for-noexec-fs)
 [![AudioFingerprinting.Demo](https://github-readme-stats-tawny-two-47.vercel.app/api/pin/?username=ZhymabekRoman&repo=AudioFingerprinting.Demo)](https://github.com/ZhymabekRoman/AudioFingerprinting.Demo)
 
 ### > Telegram bots
