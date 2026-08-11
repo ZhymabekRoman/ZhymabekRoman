@@ -126,14 +126,7 @@ I'm a passionate developer who loves creating music, reverse engineering, and co
 
 ---
 
-## 📈 Recent Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-*View all my repositories on [GitHub](https://github.com/ZhymabekRoman?tab=repositories)*
-
----
 
 ## 📫 Connect With Me
 
