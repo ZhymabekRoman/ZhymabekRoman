@@ -118,6 +118,7 @@ I'm a passionate developer who loves creating music, reverse engineering, and co
 [![classic-ntp-enhanced](https://github-readme-stats-five-brown-88.vercel.app/api/pin/?username=ZhymabekRoman&repo=classic-ntp-enhanced&theme=radical)](https://github.com/ZhymabekRoman/classic-ntp-enhanced)
 
 ### **🛠️ Utilities & Miscellaneous**
+[![git-hooks](https://github-readme-stats-five-brown-88.vercel.app/api/pin/?username=ZhymabekRoman&repo=git-hooks&theme=radical)](https://github.com/ZhymabekRoman/git-hooks)
 [![github-backup-to-yandex](https://github-readme-stats-five-brown-88.vercel.app/api/pin/?username=ZhymabekRoman&repo=github-backup-to-yandex&theme=radical)](https://github.com/ZhymabekRoman/github-backup-to-yandex)
 [![DNS-KZ-Shop-Parser](https://github-readme-stats-five-brown-88.vercel.app/api/pin/?username=ZhymabekRoman&repo=DNS-KZ-Shop-Parser&theme=radical)](https://github.com/ZhymabekRoman/DNS-KZ-Shop-Parser)
 
