@@ -25,5 +25,5 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_details: bytes-size, percentage
           output_action: commit
-          committer_branch: main
+          committer_branch: master
           filename: github-metrics.svg
