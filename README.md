@@ -29,9 +29,8 @@ I'm a passionate developer who loves creating music, reverse engineering, and co
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-tawny-two-47.vercel.app/api?username=ZhymabekRoman&rank_icon=percentile&show_icons=true&theme=radical)
+![GitHub Metrics](./github-metrics.svg)
 ![GitHub Streak](https://streak-stats.demolab.com?user=ZhymabekRoman&theme=radical)
-![Top Languages](https://github-readme-stats-tawny-two-47.vercel.app/api/top-langs/?username=ZhymabekRoman&layout=compact&theme=radical)
 
 ---
 
@@ -81,49 +80,49 @@ I'm a passionate developer who loves creating music, reverse engineering, and co
 *A modern web application for content consumption*
 
 ### **🐧 Linux Utilities & System Tools**
-[![Exagear-For-Termux](https://github-readme-stats-tawny-two-47.vercel.app/api/pin/?username=ZhymabekRoman&repo=Exagear-For-Termux&theme=radical)](https://github.com/ZhymabekRoman/Exagear-For-Termux)
-[![proot-static](https://github-readme-stats-tawny-two-47.vercel.app/api/pin/?username=ZhymabekRoman&repo=proot-static&theme=radical)](https://github.com/ZhymabekRoman/proot-static)
-[![dotconfig](https://github-readme-stats-tawny-two-47.vercel.app/api/pin/?username=ZhymabekRoman&repo=dotconfig&theme=radical)](https://github.com/ZhymabekRoman/dotconfig)
-[![MyVIM](https://github-readme-stats-tawny-two-47.vercel.app/api/pin/?username=ZhymabekRoman&repo=MyVIM&theme=radical)](https://github.com/ZhymabekRoman/MyVIM)
-[![Puffin-Browser-on-Linux](https://github-readme-stats-tawny-two-47.vercel.app/api/pin/?username=ZhymabekRoman&repo=Puffin-Browser-on-Linux&theme=radical)](https://github.com/ZhymabekRoman/Puffin-Browser-on-Linux)
-[![puffin-internet-terminal-arch](https://github-readme-stats-tawny-two-47.vercel.app/api/pin/?username=ZhymabekRoman&repo=puffin-internet-terminal-arch&theme=radical)](https://github.com/ZhymabekRoman/puffin-internet-terminal-arch)
-[![AudioFingerprinting.Demo](https://github-readme-stats-tawny-two-47.vercel.app/api/pin/?username=ZhymabekRoman&repo=AudioFingerprinting.Demo&theme=radical)](https://github.com/ZhymabekRoman/AudioFingerprinting.Demo)
-[![Android-Keyboard-Helper](https://github-readme-stats-tawny-two-47.vercel.app/api/pin/?username=ZhymabekRoman&repo=Android-Keyboard-Helper&theme=radical)](https://github.com/ZhymabekRoman/Android-Keyboard-Helper)
+[![Exagear-For-Termux](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=Exagear-For-Termux&theme=radical)](https://github.com/ZhymabekRoman/Exagear-For-Termux)
+[![proot-static](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=proot-static&theme=radical)](https://github.com/ZhymabekRoman/proot-static)
+[![dotconfig](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=dotconfig&theme=radical)](https://github.com/ZhymabekRoman/dotconfig)
+[![MyVIM](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=MyVIM&theme=radical)](https://github.com/ZhymabekRoman/MyVIM)
+[![Puffin-Browser-on-Linux](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=Puffin-Browser-on-Linux&theme=radical)](https://github.com/ZhymabekRoman/Puffin-Browser-on-Linux)
+[![puffin-internet-terminal-arch](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=puffin-internet-terminal-arch&theme=radical)](https://github.com/ZhymabekRoman/puffin-internet-terminal-arch)
+[![AudioFingerprinting.Demo](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=AudioFingerprinting.Demo&theme=radical)](https://github.com/ZhymabekRoman/AudioFingerprinting.Demo)
+[![Android-Keyboard-Helper](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=Android-Keyboard-Helper&theme=radical)](https://github.com/ZhymabekRoman/Android-Keyboard-Helper)
 
 ### **🎮 Gaming & Graphics**
-[![SwiftShader for Exagear](https://github-readme-stats-tawny-two-47.vercel.app/api/pin/?username=ZhymabekRoman&repo=direct-3d-swiftshader-exagear&theme=radical)](https://github.com/ZhymabekRoman/direct-3d-swiftshader-exagear)
+[![SwiftShader for Exagear](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=direct-3d-swiftshader-exagear&theme=radical)](https://github.com/ZhymabekRoman/direct-3d-swiftshader-exagear)
 
 ### **🤖 Telegram Bots & Automation**
-[![SimMarketBot](https://github-readme-stats-tawny-two-47.vercel.app/api/pin/?username=ZhymabekRoman&repo=SimMarketBot&theme=radical)](https://github.com/ZhymabekRoman/SimMarketBot)
-[![StravinskyBot](https://github-readme-stats-tawny-two-47.vercel.app/api/pin/?username=ZhymabekRoman&repo=StravinskyBot&theme=radical)](https://github.com/ZhymabekRoman/StravinskyBot)
-[![bing-bot-reward-puppeteer](https://github-readme-stats-tawny-two-47.vercel.app/api/pin/?username=ZhymabekRoman&repo=bing-bot-reward-puppeteer&theme=radical)](https://github.com/ZhymabekRoman/bing-bot-reward-puppeteer)
+[![SimMarketBot](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=SimMarketBot&theme=radical)](https://github.com/ZhymabekRoman/SimMarketBot)
+[![StravinskyBot](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=StravinskyBot&theme=radical)](https://github.com/ZhymabekRoman/StravinskyBot)
+[![bing-bot-reward-puppeteer](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=bing-bot-reward-puppeteer&theme=radical)](https://github.com/ZhymabekRoman/bing-bot-reward-puppeteer)
 
 ### **💻 Windows Utilities**
-[![CameyoExtractor](https://github-readme-stats-tawny-two-47.vercel.app/api/pin/?username=ZhymabekRoman&repo=CameyoExtractor&theme=radical)](https://github.com/ZhymabekRoman/CameyoExtractor)
-[![Au3Cx](https://github-readme-stats-tawny-two-47.vercel.app/api/pin/?username=ZhymabekRoman&repo=Au3Cx&theme=radical)](https://github.com/ZhymabekRoman/Au3Cx)
-[![ZhymaCrypt](https://github-readme-stats-tawny-two-47.vercel.app/api/pin/?username=ZhymabekRoman&repo=ZhymaCrypt&theme=radical)](https://github.com/ZhymabekRoman/ZhymaCrypt)
-[![musescore_pdf_downloader](https://github-readme-stats-tawny-two-47.vercel.app/api/pin/?username=ZhymabekRoman&repo=musescore_pdf_downloader&theme=radical)](https://github.com/ZhymabekRoman/musescore_pdf_downloader)
+[![CameyoExtractor](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=CameyoExtractor&theme=radical)](https://github.com/ZhymabekRoman/CameyoExtractor)
+[![Au3Cx](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=Au3Cx&theme=radical)](https://github.com/ZhymabekRoman/Au3Cx)
+[![ZhymaCrypt](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=ZhymaCrypt&theme=radical)](https://github.com/ZhymabekRoman/ZhymaCrypt)
+[![musescore_pdf_downloader](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=musescore_pdf_downloader&theme=radical)](https://github.com/ZhymabekRoman/musescore_pdf_downloader)
 
 ### **📦 Python Libraries & Toolkits**
-[![platonus_api_wrapper](https://github-readme-stats-tawny-two-47.vercel.app/api/pin/?username=ZhymabekRoman&repo=platonus_api_wrapper&theme=radical)](https://github.com/ZhymabekRoman/platonus_api_wrapper)
-[![kz-iin-validator](https://github-readme-stats-tawny-two-47.vercel.app/api/pin/?username=ZhymabekRoman&repo=kz-iin-validator&theme=radical)](https://github.com/ZhymabekRoman/kz-iin-validator)
-[![audfprint-enhanhed](https://github-readme-stats-tawny-two-47.vercel.app/api/pin/?username=ZhymabekRoman&repo=audfprint-enhanhed&theme=radical)](https://github.com/ZhymabekRoman/audfprint-enhanhed)
-[![click2flask](https://github-readme-stats-tawny-two-47.vercel.app/api/pin/?username=ZhymabekRoman&repo=click2flask&theme=radical)](https://github.com/ZhymabekRoman/click2flask)
+[![platonus_api_wrapper](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=platonus_api_wrapper&theme=radical)](https://github.com/ZhymabekRoman/platonus_api_wrapper)
+[![kz-iin-validator](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=kz-iin-validator&theme=radical)](https://github.com/ZhymabekRoman/kz-iin-validator)
+[![audfprint-enhanhed](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=audfprint-enhanhed&theme=radical)](https://github.com/ZhymabekRoman/audfprint-enhanhed)
+[![click2flask](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=click2flask&theme=radical)](https://github.com/ZhymabekRoman/click2flask)
 
 ### **🔍 Reverse Engineering & Security**
-[![Ruplay-Market-Downloader-py](https://github-readme-stats-tawny-two-47.vercel.app/api/pin/?username=ZhymabekRoman&repo=Ruplay-Market-Downloader-py&theme=radical)](https://github.com/ZhymabekRoman/Ruplay-Market-Downloader-py)
-[![webshare-regiter](https://github-readme-stats-tawny-two-47.vercel.app/api/pin/?username=ZhymabekRoman&repo=webshare-regiter&theme=radical)](https://github.com/ZhymabekRoman/webshare-regiter)
+[![Ruplay-Market-Downloader-py](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=Ruplay-Market-Downloader-py&theme=radical)](https://github.com/ZhymabekRoman/Ruplay-Market-Downloader-py)
+[![webshare-regiter](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=webshare-regiter&theme=radical)](https://github.com/ZhymabekRoman/webshare-regiter)
 
 ### **🌐 Browser Extensions & Web Tools**
-[![TabSuspender](https://github-readme-stats-tawny-two-47.vercel.app/api/pin/?username=ZhymabekRoman&repo=TabSuspender&theme=radical)](https://github.com/ZhymabekRoman/TabSuspender)
-[![classic-ntp-enhanced](https://github-readme-stats-tawny-two-47.vercel.app/api/pin/?username=ZhymabekRoman&repo=classic-ntp-enhanced&theme=radical)](https://github.com/ZhymabekRoman/classic-ntp-enhanced)
+[![TabSuspender](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=TabSuspender&theme=radical)](https://github.com/ZhymabekRoman/TabSuspender)
+[![classic-ntp-enhanced](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=classic-ntp-enhanced&theme=radical)](https://github.com/ZhymabekRoman/classic-ntp-enhanced)
 
 ### **🛠️ Utilities & Miscellaneous**
-[![github-backup-to-yandex](https://github-readme-stats-tawny-two-47.vercel.app/api/pin/?username=ZhymabekRoman&repo=github-backup-to-yandex&theme=radical)](https://github.com/ZhymabekRoman/github-backup-to-yandex)
-[![DNS-KZ-Shop-Parser](https://github-readme-stats-tawny-two-47.vercel.app/api/pin/?username=ZhymabekRoman&repo=DNS-KZ-Shop-Parser&theme=radical)](https://github.com/ZhymabekRoman/DNS-KZ-Shop-Parser)
+[![github-backup-to-yandex](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=github-backup-to-yandex&theme=radical)](https://github.com/ZhymabekRoman/github-backup-to-yandex)
+[![DNS-KZ-Shop-Parser](https://github-readme-stats.vercel.app/api/pin/?username=ZhymabekRoman&repo=DNS-KZ-Shop-Parser&theme=radical)](https://github.com/ZhymabekRoman/DNS-KZ-Shop-Parser)
 
 ### **🔗 Contributions & Collaborations**
-[![translate](https://github-readme-stats-tawny-two-47.vercel.app/api/pin/?username=Animenosekai&repo=translate&theme=radical)](https://github.com/Animenosekai/translate)
+[![translate](https://github-readme-stats.vercel.app/api/pin/?username=Animenosekai&repo=translate&theme=radical)](https://github.com/Animenosekai/translate)
 
 ---
 
